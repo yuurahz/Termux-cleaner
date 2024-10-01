@@ -10,7 +10,7 @@ git clone https://github.com/YuuraHz/Termux-cleaner
 ````
 - #### Navigate to the project directory:
 ```bash
-cd Termux-cleaner/Cleaner
+cd Termux-cleaner
 ```
 - #### Give executable permission to the file
 ```bash
