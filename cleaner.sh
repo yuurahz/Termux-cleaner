@@ -1,6 +1,6 @@
 #!/bin/bash
 
-author="https://github.com/YuuraHz"
+author="YuuraHz"
 version="V2.3.1"
 LOG_FILE="cleanup_log.txt"
 
@@ -25,13 +25,13 @@ typing_effect() {
  echo -e "\e[1;31m
          ┌─────────┐     ┌─────────┐
        ──────│\e[94m [▓▓▓▓▓▓▓▓░░░░░] \e[1;31m│──────
- ─────────── │  \e[38;5;83m TΞRMUX JΞNK \e[1;31m  │ ───────────
+ ─────────── │  \e[38;5;83m TERMUX JUNK \e[1;31m  │ ───────────
  ─────────── │ \e[38;5;83m C L E A N E R \e[1;31m │ ───────────
        ──────│\e[94m [░░░░░▓▓▓▓▓▓▓▓] \e[1;31m│──────
          └─────────┘     └─────────┘\e[0m"
 echo -e "              \033[40;38;5;83m Version \033[30;48;5;83m $version \033[0m"
 echo -e "         \033[30;48;5;83m    Copyright \033[40;38;5;83m ${author}\033[0m"
- #echo -e "  \033[2;31;40m Advanced Junk Cleanup Tool by Arjun V.  \033[0m"
+ #echo -e "  \033[2;31;40m Advanced Junk Cleanup Tool by YuuraHz.  \033[0m"
  echo -e " \e[1;34m--------------------------------------------\e[0m"
 
 
