@@ -6,7 +6,7 @@ Termux Junk Cleaner is a powerful junk cleanup tool designed to optimize and dec
 
 - #### Clone the repository:
 ```bash
-git clone https://github.com/YuuraHz/Termux-cleaner
+git clone https://github.com/yuurahz/Termux-cleaner
 ````
 - #### Navigate to the project directory:
 ```bash
